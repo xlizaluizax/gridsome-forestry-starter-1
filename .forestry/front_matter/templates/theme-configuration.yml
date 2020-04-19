@@ -14,14 +14,14 @@ fields:
   config:
     wysiwyg: true
     schema:
-      format: html
+      format: markdown
 - type: textarea
   name: hero_subtitle
   label: Hero subtitle
   config:
     wysiwyg: true
     schema:
-      format: html
+      format: markdown
 - name: footer
   label: Footer text
   type: text
